@@ -1,8 +1,10 @@
-# CONNOR J. MCWARD
-- Email: cmcward@berkeley.edu
-- Phone: (408) 833-4721
-- [LinkedIn](https://linkedin.com/in/connormcward)
+# Recent Projects
 
+
+
+
+
+# Resume
 ## EDUCATION
 
 ### California State University, East Bay – College of Business & Economics
