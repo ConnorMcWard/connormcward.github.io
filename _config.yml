@@ -1,11 +1,10 @@
 title: Connor McWard
 
-logo: /assets/PFP.jpg
+logo: /assets/img/PFP.jpg
 
 description: | 
-  I am a data scientist who is passionate about applying machine learning and statistical analysis to solve complex and novel problems in business, astrophysics, and physics. I have a bachelor's degree in physics and astrophysics from the University of California, Berkeley, and I just finished my master's degree in Business Analytics from California State University - East Bay. I am motivated by the challenge of discovering new insights and patterns from large and diverse datasets, and I value collaboration, innovation, and curiosity in my work.
-  
-  I worked as a data scientist at the University of California, Berkeley, where I performed novel analysis to compare auto-corellation function peaks of starspot lifetimes. I used IDL to condition and evaluate the data, and I presented weekly status reports outlining my findings and recommendations. I also identified interesting outlier stars and star groupings, and explored their implications for stellar evolution and variability. I leveraged my skills in statistical analysis, and data science to deliver high-quality and impactful results.
+  I am a data scientist who is passionate about applying machine learning and statistical analysis to solve complex and   novel problems in business, astrophysics, and physics. I am motivated by the challenge of discovering new insights and patterns from large and diverse datasets, and I value collaboration, innovation, and curiosity in my work.
+
 
 # show_downloads: true
 theme: jekyll-theme-minimal
