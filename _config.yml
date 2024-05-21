@@ -1,4 +1,4 @@
-title: "Connor McWard Portfolio"
+title: Connor J. McWard
 
 logo: /assets/img/PFP.jpg
 
@@ -6,8 +6,8 @@ description: |
   I am a data scientist who is passionate about applying machine learning and statistical analysis to solve complex and   novel problems in business, astrophysics, and physics. I am motivated by the challenge of discovering new insights and patterns from large and diverse datasets, and I value collaboration, innovation, and curiosity in my work.
 
 links:
-  - title: "LinkedIn"
-  url: "https://www.linkedin.com/in/connormcward"
+  - title: LinkedIn
+  url: https://www.linkedin.com/in/connormcward
   
 # show_downloads: true
 theme: jekyll-theme-minimal
