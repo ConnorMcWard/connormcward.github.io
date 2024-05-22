@@ -1,5 +1,6 @@
 # About Me
-Hi! My name is Connor and I am a data scientist who is passionate about solving complex and novel problems in business and physics. I am motivated by the challenge of discovering new insights and patterns from large and diverse datasets.
+Hi! My name is Connor, and I am a data scientist with a strong background in physics and business analytics. I earned my Master of Science in Business Analytics from California State University, East Bay, where I developed my expertise in machine learning and data analysis. Prior to that, I graduated from the University of California, Berkeley, with a Bachelor of Arts in Physics and Astrophysics. I am driven by the challenge of uncovering insights from complex datasets and applying these findings to solve real-world problems. My passion lies in leveraging data to drive innovation and make informed decisions in both business and scientific domains.
+
 
 ### [Download My Resume](assets/resume/Connor_McWard_Resume.pdf){:target="_blank"}
 
@@ -28,3 +29,11 @@ Hi! My name is Connor and I am a data scientist who is passionate about solving 
 - Analyzed electric vehicle (EV) battery data to understand performance metrics.
 - Applied machine learning techniques to predict battery lifespan and efficiency.
 - Visualized the results using interactive dashboards and plots.
+
+# Published Works
+
+### A New Method for Estimating Starspot Lifetimes Based on Autocorrelation Functions
+Published in The Astrophysics Journal, January 10, 2022
+- Coauthored a peer-reviewed article demonstrating a novel methodology for estimating starspot lifetimes without requiring a known rotation period.
+- Achieved significant academic impact with citations in 21 scholarly articles and over 900 downloads.
+- [Read the full article](/assets/research_paper/Research_Paper_01_10_22.pdf){:target="_blank"}
