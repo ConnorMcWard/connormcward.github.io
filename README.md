@@ -10,16 +10,19 @@ Hi! My name is Connor and I am a data scientist who is passionate about solving 
 - Utilized AWS services like S3 and Athena for data storage and querying.
 
 ## [Data Analysis Case Study](https://github.com/ConnorMcWard/Data-Analysis-Case-Study){:target="_blank"}
+![Gas Usage over time](/assets/img/Gas_Usage_by_year.png)
 - Conducted in-depth data analysis on a real-world dataset.
 - Performed exploratory data analysis (EDA) to uncover insights and patterns.
 - Applied various statistical techniques and visualizations to interpret the data.
 
 ## [Capstone Project](https://github.com/ConnorMcWard/Capstone-Project){:target="_blank"}
+![Lift_chart](/assets/img/Lift_chart.png)
 - Developed a regression model in Python to forecast market housing prices.
 - Built a classification model to predict hotel cancellations.
 - Evaluated multiple machine learning algorithms for optimal performance.
 
 ## [EV Battery Analysis](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
+![Electric Car](/assets/img/electric-car-batteries.png)
 - Analyzed electric vehicle (EV) battery data to understand performance metrics.
 - Applied machine learning techniques to predict battery lifespan and efficiency.
 - Visualized the results using interactive dashboards and plots.
