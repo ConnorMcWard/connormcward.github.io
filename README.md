@@ -4,14 +4,12 @@
 
 # Recent Projects
 
-### Data Engineering Case Study
-[GitHub Repository](https://github.com/ConnorMcWard/Data-Engineering-Case-Study)  
+### [Data Engineering Case Study](https://github.com/ConnorMcWard/Data-Engineering-Case-Study)
 - Developed a comprehensive data engineering pipeline using Python and SQL.
 - Implemented data extraction, transformation, and loading (ETL) processes.
 - Utilized AWS services like S3 and Athena for data storage and querying.
 
-### Data Analysis Case Study
-[GitHub Repository](https://github.com/ConnorMcWard/Data-Analysis-Case-Study)  
+### [Data Analysis Case Study](https://github.com/ConnorMcWard/Data-Analysis-Case-Study) 
 - Conducted in-depth data analysis on a real-world dataset.
 - Performed exploratory data analysis (EDA) to uncover insights and patterns.
 - Applied various statistical techniques and visualizations to interpret the data.
