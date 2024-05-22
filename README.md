@@ -22,7 +22,7 @@ Hi! My name is Connor and I am a data scientist who is passionate about solving 
 - Evaluated multiple machine learning algorithms for optimal performance.
 
 ## [EV Battery Analysis](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
-![Electric Car](/assets/img/electric-car-batteries.png)
+![Electric Car](/assets/img/electric-car-batteries.jpg)
 - Analyzed electric vehicle (EV) battery data to understand performance metrics.
 - Applied machine learning techniques to predict battery lifespan and efficiency.
 - Visualized the results using interactive dashboards and plots.
