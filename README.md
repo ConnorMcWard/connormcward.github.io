@@ -33,6 +33,7 @@ Hi! My name is Connor, and I am a data scientist with a strong background in phy
 # Published Works
 
 ### A New Method for Estimating Starspot Lifetimes Based on Autocorrelation Functions
+![Pk1_v_Pk3](/assets/img/Pk1_vs_Pk2+Pk3.png)
 Published in The Astrophysics Journal, January 10, 2022
 - Coauthored a peer-reviewed article demonstrating a novel methodology for estimating starspot lifetimes without requiring a known rotation period.
 - Achieved significant academic impact with citations in 21 scholarly articles and over 900 downloads.
