@@ -4,6 +4,7 @@ Hi! My name is Connor and I am a data scientist who is passionate about solving 
 # Recent Projects
 
 ## [Data Engineering Case Study](https://github.com/ConnorMcWard/Data-Engineering-Case-Study){:target="_blank"}
+![ETL Pipleine Diagram](/assets/img/etl.png)
 - Developed a comprehensive data engineering pipeline using Python and SQL.
 - Implemented data extraction, transformation, and loading (ETL) processes.
 - Utilized AWS services like S3 and Athena for data storage and querying.
