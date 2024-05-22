@@ -1,6 +1,8 @@
 # About Me
 Hi! My name is Connor and I am a data scientist who is passionate about solving complex and novel problems in business and physics. I am motivated by the challenge of discovering new insights and patterns from large and diverse datasets.
 
+[Download My Resume](assets/resume/Connor_McWard_Resume.pdf){:target="_blank"}
+
 # Recent Projects
 
 ## [Data Engineering Case Study](https://github.com/ConnorMcWard/Data-Engineering-Case-Study){:target="_blank"}
