@@ -15,6 +15,7 @@
 - Applied various statistical techniques and visualizations to interpret the data.
 
 ### Capstone Project
+<a href="https://github.com/ConnorMcWard/Data-Engineering-Case-Study" target="_blank">GitHub Repository</a>  
 [GitHub Repository](https://github.com/ConnorMcWard/Capstone-Project)  
 - Developed a regression model in Python to forecast market housing prices.
 - Built a classification model to predict hotel cancellations.
