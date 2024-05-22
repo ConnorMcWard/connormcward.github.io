@@ -13,7 +13,6 @@ contact:
   
 
 description: | 
-  I am a data scientist who is passionate about solving complex and novel problems in business and physics. I am motivated by the challenge of discovering new insights and patterns from large and diverse datasets.
 
   <p><strong>Contact Information:</strong></p>
   <p><strong>Email:</strong> <a href="mailto:cmcward@berkeley.edu">cmcward@berkeley.edu</a></p>
@@ -23,4 +22,4 @@ description: |
 
 
 # show_downloads: true
-theme: jekyll-theme
+theme: jekyll-theme-minimal
