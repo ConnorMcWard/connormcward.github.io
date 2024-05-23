@@ -1,5 +1,7 @@
 # About Me
-Hi! My name is Connor, and I am a data scientist with a strong background in physics and business analytics. I earned my Master of Science in Business Analytics from California State University, East Bay, where I developed my expertise in machine learning and data analysis. Prior to that, I graduated from the University of California, Berkeley, with a Bachelor of Arts in Physics and Astrophysics. I am driven by the challenge of uncovering insights from complex datasets and applying these findings to solve real-world problems. My passion lies in leveraging data to drive innovation and make informed decisions in both business and scientific domains.
+Hi! My name is Connor, and I am a data scientist with a strong background in physics and business analytics. I earned my Master of Science in Business Analytics from California State University, East Bay, where I developed my expertise in machine learning and data analysis. Prior to that, I graduated from the University of California, Berkeley, with a Bachelor of Arts in Physics and Astrophysics. 
+
+I am driven by the challenge of uncovering insights from complex datasets and applying these findings to solve real-world problems. My passion lies in leveraging data to drive innovation and make informed decisions in both business and scientific domains.
 
 
 ### [Download My Resume](assets/resume/Connor_McWard_Resume.pdf){:target="_blank"}
