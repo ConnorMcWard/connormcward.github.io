@@ -7,7 +7,7 @@
 3. [Data Analytics Projects](#data-analytics-projects)
     - [Data Analysis Case Study](#data-analysis-case-study)
 4. [Data Science Projects](#data-science-projects)
-    - [[Hotel Cancellations](#[hotel-cancellations---classification)
+    - [Hotel Cancellations](#[hotel-cancellations---classification)
     - [Housing Prices](#housing-prices---regression)
     - [EV Battery Analysis](#ev-battery-analysis)
 5. [Published Works](#published-works)
