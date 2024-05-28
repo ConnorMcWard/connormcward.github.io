@@ -8,7 +8,7 @@
     - [Data Analysis Case Study](#data-analysis-case-study)
 4. [Data Science Projects](#data-science-projects)
     - [[Hotel Cancellations](#[hotel-cancellations---classification)
-    - [Housing Prices - Regression](#housing-prices---regression)
+    - [Housing Prices](#housing-prices---regression)
     - [EV Battery Analysis](#ev-battery-analysis)
 5. [Published Works](#published-works)
     - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
