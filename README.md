@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science and Engineering Portfolio
 
 ## Table of Contents
 1. [About Me](#about-me)
