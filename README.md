@@ -12,29 +12,28 @@
     - [Data Analysis Case Study](#data-analysis-case-study)
 5. [Published Works](#published-works)
     - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
-
 <br>
+
 # About Me
 Hi! My name is Connor, and I am a data scientist with a strong background in physics and business analytics. I earned my Master of Science in Business Analytics from California State University, East Bay, where I developed my expertise in machine learning and data analysis. Prior to that, I graduated from the University of California, Berkeley, with a Bachelor of Arts in Physics and Astrophysics. 
 
 I am driven by the challenge of uncovering insights from complex datasets and applying these findings to solve real-world problems. My passion lies in leveraging data to drive innovation and make informed decisions in both business and scientific domains.
 
 ### [Download My Resume](assets/resume/Connor_McWard_Resume.pdf){:target="_blank"}
-
 <br>
+
 # Data Science Projects
 
 ## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
 [![Lift Chart](/assets/img/Lift_chart.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
 - Built a classification model to predict hotel cancellations.
 - Evaluated multiple machine learning algorithms for optimal performance.
-
 <br>
+
 ## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
 [![Houses](/assets/img/Houses.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
 - Developed a regression model in Python to forecast market housing prices.
 - Evaluated multiple machine learning algorithms for optimal performance.
-
 <br>
 
 ## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
