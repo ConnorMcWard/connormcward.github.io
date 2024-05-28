@@ -23,7 +23,7 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 ## [Data Engineering Case Study](https://github.com/ConnorMcWard/Data-Engineering-Case-Study){:target="_blank"}
 ![ETL Pipeline Diagram](/assets/img/etl.png)
-- Developed a comprehensive data engineering pipeline using Python.
+- Developed a data engineering pipeline using Python.
 - Implemented data extraction, transformation, and loading (ETL) processes.
 - Dockerized the Python file to ensure a consistent and reproducible environment for deployment.
 
