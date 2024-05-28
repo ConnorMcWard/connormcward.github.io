@@ -37,13 +37,17 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 # Data Science Projects
 
-## [Capstone Projects](https://github.com/ConnorMcWard/Capstone-Project){:target="_blank"}
+## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Project/tree/main/Hotel-Cancellations){:target="_blank"}
 ![Lift Chart](/assets/img/Lift_chart.png)
 - Developed a regression model in Python to forecast market housing prices.
+- Evaluated multiple machine learning algorithms for optimal performance.
+
+## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Project/tree/main/Housing-Prices){:target="_blank"}
+![Houses](/assets/img/Houses.png)
 - Built a classification model to predict hotel cancellations.
 - Evaluated multiple machine learning algorithms for optimal performance.
 
-## [EV Battery Analysis](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
+## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
 ![Electric Car](/assets/img/electric-car-batteries.jpg)
 - Analyzed electric vehicle (EV) battery data to understand performance metrics.
 - Applied machine learning techniques to predict battery lifespan and efficiency.
