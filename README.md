@@ -1,3 +1,17 @@
+# Data Scientist Portfolio
+
+## Table of Contents
+1. [About Me](#about-me)
+2. [Data Engineering Projects](#data-engineering-projects)
+    - [Data Engineering Case Study](#data-engineering-case-study)
+3. [Data Analytics Projects](#data-analytics-projects)
+    - [Data Analysis Case Study](#data-analysis-case-study)
+4. [Data Science Projects](#data-science-projects)
+    - [Capstone Project](#capstone-project)
+    - [EV Battery Analysis](#ev-battery-analysis)
+5. [Published Works](#published-works)
+    - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
+
 # About Me
 Hi! My name is Connor, and I am a data scientist with a strong background in physics and business analytics. I earned my Master of Science in Business Analytics from California State University, East Bay, where I developed my expertise in machine learning and data analysis. Prior to that, I graduated from the University of California, Berkeley, with a Bachelor of Arts in Physics and Astrophysics. 
 
