@@ -7,7 +7,7 @@
 3. [Data Analytics Projects](#data-analytics-projects)
     - [Data Analysis Case Study](#data-analysis-case-study)
 4. [Data Science Projects](#data-science-projects)
-    - [Capstone Project](#capstone-project)
+    - [Capstone Projects](#capstone-projects)
     - [EV Battery Analysis](#ev-battery-analysis)
 5. [Published Works](#published-works)
     - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
@@ -37,7 +37,7 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 # Data Science Projects
 
-## [Capstone Project](https://github.com/ConnorMcWard/Capstone-Project){:target="_blank"}
+## [Capstone Projects](https://github.com/ConnorMcWard/Capstone-Project){:target="_blank"}
 ![Lift Chart](/assets/img/Lift_chart.png)
 - Developed a regression model in Python to forecast market housing prices.
 - Built a classification model to predict hotel cancellations.
