@@ -37,12 +37,12 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 # Data Science Projects
 
-## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Project/tree/main/Hotel-Cancellations){:target="_blank"}
+## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
 ![Lift Chart](/assets/img/Lift_chart.png)
 - Developed a regression model in Python to forecast market housing prices.
 - Evaluated multiple machine learning algorithms for optimal performance.
 
-## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Project/tree/main/Housing-Prices){:target="_blank"}
+## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
 ![Houses](/assets/img/Houses.png)
 - Built a classification model to predict hotel cancellations.
 - Evaluated multiple machine learning algorithms for optimal performance.
