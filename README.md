@@ -20,6 +20,8 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 ### [Download My Resume](assets/resume/Connor_McWard_Resume.pdf){:target="_blank"}
 
+<br>
+
 # Data Science Projects
 
 ## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
@@ -27,16 +29,22 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Built a classification model to predict hotel cancellations.
 - Evaluated multiple machine learning algorithms for optimal performance.
 
+<br>
+
 ## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
 [![Houses](/assets/img/Houses.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices)
 - Developed a regression model in Python to forecast market housing prices.
 - Evaluated multiple machine learning algorithms for optimal performance.
+
+<br>
 
 ## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
 [![Electric Car](/assets/img/electric-car-batteries.jpg)](https://github.com/ConnorMcWard/EV-Battery)
 - Analyzed electric vehicle (EV) battery data to understand performance metrics.
 - Applied machine learning techniques to predict battery lifespan and efficiency.
 - Visualized the results using detailed plots to highlight predictive modeling capabilities.
+
+<br>
 
 # Data Engineering Projects
 
@@ -46,6 +54,8 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Implemented data extraction, transformation, and loading (ETL) processes.
 - Dockerized the Python file to ensure a consistent and reproducible environment for deployment.
 
+<br>
+
 # Data Analytics Projects
 
 ## [Data Analysis Case Study](https://github.com/ConnorMcWard/Data-Analysis-Case-Study){:target="_blank"}
@@ -53,6 +63,8 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Conducted in-depth data analysis on a real-world dataset.
 - Performed exploratory data analysis (EDA) to uncover insights and patterns.
 - Applied various statistical techniques and visualizations to interpret the data.
+
+<br>
 
 # Published Works
 
