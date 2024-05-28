@@ -20,6 +20,7 @@ Hi! My name is Connor, and I am a data scientist with a strong background in phy
 I am driven by the challenge of uncovering insights from complex datasets and applying these findings to solve real-world problems. My passion lies in leveraging data to drive innovation and make informed decisions in both business and scientific domains.
 
 ### [Download My Resume](assets/resume/Connor_McWard_Resume.pdf){:target="_blank"}
+
 <br>
 
 # Data Science Projects
@@ -28,12 +29,14 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 [![Lift Chart](/assets/img/Lift_chart.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
 - Built a classification model to predict hotel cancellations.
 - Evaluated multiple machine learning algorithms for optimal performance.
+
 <br>
 
 ## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
 [![Houses](/assets/img/Houses.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
 - Developed a regression model in Python to forecast market housing prices.
 - Evaluated multiple machine learning algorithms for optimal performance.
+
 <br>
 
 ## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
@@ -41,6 +44,7 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Analyzed electric vehicle (EV) battery data to understand performance metrics.
 - Applied machine learning techniques to predict battery lifespan and efficiency.
 - Visualized the results using detailed plots to highlight predictive modeling capabilities.
+
 <br>
 
 # Data Engineering Projects
@@ -50,6 +54,7 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Developed a data engineering pipeline using Python.
 - Implemented data extraction, transformation, and loading (ETL) processes.
 - Dockerized the Python file to ensure a consistent and reproducible environment for deployment.
+
 <br>
 
 # Data Analytics Projects
@@ -59,6 +64,7 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Conducted in-depth data analysis on a real-world dataset.
 - Performed exploratory data analysis (EDA) to uncover insights and patterns.
 - Applied various statistical techniques and visualizations to interpret the data.
+
 <br>
 
 # Published Works
