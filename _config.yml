@@ -21,4 +21,4 @@ description: |
 
 
 # show_downloads: true
-theme: minima
+theme: jekyll-theme-minima
