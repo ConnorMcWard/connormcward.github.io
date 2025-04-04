@@ -1,22 +1,4 @@
----
-title: Connor J. McWard
-logo: /assets/img/Connor.jpg
-author:
-  name: Connor J. McWard
-  email: cmcward@berkeley.edu
-contact:
-  phone: 408-833-4721
-  email: cmcward@berkeley.edu
-  linkedin: https://linkedin.com/in/connormcward
-description: |
-  <p><strong>Contact Information:</strong></p>
-  <p><strong>Email:</strong> <a href="mailto:cmcward@berkeley.edu">cmcward@berkeley.edu</a></p>
-  <p><strong>Phone:</strong> (408) 833-4721</p>
-  <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/connormcward" target="_blank">linkedin.com/in/connormcward</a></p>
-theme: jekyll-theme-minimal
----
-
-# Data Science Portfolio
+# MLE / Data Science Portfolio
 
 ## Table of Contents
 1. [About Me](#about-me)
