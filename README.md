@@ -2,16 +2,19 @@
 
 ## Table of Contents
 1. [About Me](#about-me)
-2. [Data Science Projects](#data-science-projects)
+2. [ML Engineering](#ml-engineering)
+    - [Live Stock Predictor](#live-stock-predictor)
+3. [Data Science Projects](#data-science-projects)
     - [Hotel Cancellations - Classification](#hotel-cancellations---classification)
     - [Housing Prices - Regression](#housing-prices---regression)
-    - [EV Battery Analysis - Time Series](#ev-battery-analysis---time-series)
-3. [Data Engineering Projects](#data-engineering-projects)
+4. [Data Engineering Projects](#data-engineering-projects)
     - [Data Engineering Case Study](#data-engineering-case-study)
-4. [Data Analytics Projects](#data-analytics-projects)
+5. [Data Analytics Projects](#data-analytics-projects)
     - [Data Analysis Case Study](#data-analysis-case-study)
-5. [Published Works](#published-works)
+6. [Published Works](#published-works)
     - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
+7. [Old Projects](#old-projects)
+    - [EV Battery Analysis - Time Series](#ev-battery-analysis---time-series)
 <br>
 
 # About Me
@@ -23,7 +26,16 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 <br>
 
-# Data Science Projects
+# ML Engineering
+
+## [Live Stock Predictor](https://github.com/ConnorMcWard/live-stock-predictor){:target="_blank"}
+- Containerized an online incremental learning model.
+- Developed an interactive dashboard to visualize predictions.
+- Containerization to ensure consistency and ease of deployment.
+
+<br>
+
+# Data Science
 
 ## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
 [![Lift Chart](/assets/img/Lift_chart.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
@@ -39,15 +51,8 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 <br>
 
-## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
-[![Electric Car](/assets/img/electric-car-batteries.jpg)](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
-- Analyzed electric vehicle (EV) battery data to understand performance metrics.
-- Applied machine learning techniques to predict battery lifespan and efficiency.
-- Visualized the results using detailed plots to highlight predictive modeling capabilities.
 
-<br>
-
-# Data Engineering Projects
+# Data Engineering
 
 ## [Data Engineering Case Study](https://github.com/ConnorMcWard/Data-Engineering-Case-Study){:target="_blank"}
 [![ETL Pipeline Diagram](/assets/img/etl.png)](https://github.com/ConnorMcWard/Data-Engineering-Case-Study){:target="_blank"}
@@ -57,7 +62,7 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 
 <br>
 
-# Data Analytics Projects
+# Data Analytics
 
 ## [Data Analysis Case Study](https://github.com/ConnorMcWard/Data-Analysis-Case-Study){:target="_blank"}
 [![Gas Usage over time](/assets/img/Gas_Usage_by_year.png)](https://github.com/ConnorMcWard/Data-Analysis-Case-Study){:target="_blank"}
@@ -74,3 +79,14 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Published in The Astrophysics Journal, January 10, 2022
 - Coauthored a peer-reviewed article demonstrating a novel methodology for estimating starspot lifetimes without requiring a known rotation period.
 - Achieved significant academic impact with citations in 21 scholarly articles and over 900 downloads.
+
+
+# Old Projects
+
+## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
+[![Electric Car](/assets/img/electric-car-batteries.jpg)](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
+- Analyzed electric vehicle (EV) battery data to understand performance metrics.
+- Applied machine learning techniques to predict battery lifespan and efficiency.
+- Visualized the results using detailed plots to highlight predictive modeling capabilities.
+
+<br>
