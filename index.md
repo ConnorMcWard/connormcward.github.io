@@ -16,53 +16,18 @@ description: |
 theme: jekyll-theme-minimal
 ---
 
-<nav>
-  <ul>
-    <li><a href="#about-me">About Me</a></li>
-    <li><a href="#ml-engineering">ML Engineering</a></li>
-    <li><a href="#data-science-projects">Data Science Projects</a></li>
-    <li><a href="#data-engineering-projects">Data Engineering Projects</a></li>
-    <li><a href="#data-analytics-projects">Data Analytics Projects</a></li>
-    <li><a href="#published-works">Published Works</a></li>
-    <li><a href="#old-projects">Old Projects</a></li>
-  </ul>
-</nav>
-
-<style>
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    background-color: #f0f0f0;
-  }
-  nav li {
-    margin-right: 10px;
-  }
-  nav a {
-    text-decoration: none;
-    padding: 10px 15px;
-    display: block;
-    color: #333;
-    font-weight: bold;
-  }
-  nav a:hover {
-    background-color: #e0e0e0;
-  }
-</style>
-
 # Data Science Portfolio
 
 ## Table of Contents
 1. [About Me](#about-me)
 2. [ML Engineering](#ml-engineering)
     - [Live Stock Predictor](#live-stock-predictor)
-3. [Data Science Projects](#data-science-projects)
+3. [Data Science](#data-science)
     - [Hotel Cancellations - Classification](#hotel-cancellations---classification)
     - [Housing Prices - Regression](#housing-prices---regression)
-4. [Data Engineering Projects](#data-engineering-projects)
+4. [Data Engineering](#data-engineering)
     - [Data Engineering Case Study](#data-engineering-case-study)
-5. [Data Analytics Projects](#data-analytics-projects)
+5. [Data Analytics](#data-analytics)
     - [Data Analysis Case Study](#data-analysis-case-study)
 6. [Published Works](#published-works)
     - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
