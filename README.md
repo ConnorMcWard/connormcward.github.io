@@ -1,1 +1,1 @@
-This is my repo to house my portfolio website using GitHub Pages.
+This is my repo to house my Data Science / MLE portfolio website using GitHub Pages.

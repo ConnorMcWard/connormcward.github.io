@@ -4,9 +4,6 @@
 1. [About Me](#about-me)
 2. [ML Engineering](#ml-engineering)
     - [Live Stock Predictor](#live-stock-predictor)
-3. [Data Science](#data-science)
-    - [Hotel Cancellations - Classification](#hotel-cancellations---classification)
-    - [Housing Prices - Regression](#housing-prices---regression)
 4. [Data Engineering](#data-engineering)
     - [Data Engineering Case Study](#data-engineering-case-study)
 5. [Data Analytics](#data-analytics)
@@ -29,25 +26,10 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 # ML Engineering
 
 ## [Live Stock Predictor](https://github.com/ConnorMcWard/live-stock-predictor){:target="_blank"}
-- Containerized an online incremental learning model.
-- Developed an interactive dashboard to visualize predictions.
-- Containerization to ensure consistency and ease of deployment.
-
-<br>
-
-# Data Science
-
-## [Hotel Cancellations - Classification](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
-[![Lift Chart](/assets/img/Lift_chart.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Hotel-Cancellations){:target="_blank"}
-- Built a classification model to predict hotel cancellations.
-- Evaluated multiple machine learning algorithms for optimal performance.
-
-<br>
-
-## [Housing Prices - Regression](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
-[![Houses](/assets/img/Houses.png)](https://github.com/ConnorMcWard/Capstone-Projects/tree/main/Housing-Prices){:target="_blank"}
-- Developed a regression model in Python to forecast market housing prices.
-- Evaluated multiple machine learning algorithms for optimal performance.
+[![Live Stock Predictor Dash Plot](/assets/img/stock_prediction_vs_actual_oil_model.jpeg)](https://github.com/ConnorMcWard/live-stock-predictor){:target="_blank"}
+- Developed an online incremental learning model.
+- Created an interactive dashboard to visualize predictions.
+- Containerized model and dashboard to ensure consistency and ease of deployment.
 
 <br>
 
@@ -79,14 +61,3 @@ I am driven by the challenge of uncovering insights from complex datasets and ap
 - Published in The Astrophysics Journal, January 10, 2022
 - Coauthored a peer-reviewed article demonstrating a novel methodology for estimating starspot lifetimes without requiring a known rotation period.
 - Achieved significant academic impact with citations in 21 scholarly articles and over 900 downloads.
-
-
-# Old Projects
-
-## [EV Battery Analysis - Time Series](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
-[![Electric Car](/assets/img/electric-car-batteries.jpg)](https://github.com/ConnorMcWard/EV-Battery){:target="_blank"}
-- Analyzed electric vehicle (EV) battery data to understand performance metrics.
-- Applied machine learning techniques to predict battery lifespan and efficiency.
-- Visualized the results using detailed plots to highlight predictive modeling capabilities.
-
-<br>
