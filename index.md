@@ -10,8 +10,6 @@
     - [Data Analysis Case Study](#data-analysis-case-study)
 6. [Published Works](#published-works)
     - [A New Method for Estimating Starspot Lifetimes](#a-new-method-for-estimating-starspot-lifetimes-based-on-autocorrelation-functions)
-7. [Old Projects](#old-projects)
-    - [EV Battery Analysis - Time Series](#ev-battery-analysis---time-series)
 <br>
 
 # About Me
