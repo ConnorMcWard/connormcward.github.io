@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-minimal
+layout: minimal
 title: Home
 ---
 
