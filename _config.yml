@@ -1,4 +1,5 @@
 title: Connor J. McWard
+theme: jekyll-theme-minimal
 
 logo: ./assets/img/Connor.jpg
 
@@ -19,4 +20,3 @@ description: |
 
 
 show_downloads: true
-theme: jekyll-theme-minimal

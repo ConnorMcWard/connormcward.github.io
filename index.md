@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: MLE / Data Science Portfolio
 ---
 
 # MLE / Data Science Portfolio
