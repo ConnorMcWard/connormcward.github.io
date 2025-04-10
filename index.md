@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
----
-
-
 # MLE / Data Science Portfolio
 
 ## Table of Contents
