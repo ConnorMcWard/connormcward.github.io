@@ -1,3 +1,7 @@
+---
+title: Connor's Portfolio
+---
+
 # MLE / Data Science Portfolio
 
 ## Table of Contents
