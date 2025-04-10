@@ -19,5 +19,5 @@ description: |
   <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/connormcward" target="_blank">linkedin.com/in/connormcward</a></p>
 
 
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
