@@ -1,7 +1,4 @@
----
-layout: minimal
-title: Home
----
+{% include analytics.html %}
 
 # MLE / Data Science Portfolio
 
