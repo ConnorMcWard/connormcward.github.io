@@ -1,12 +1,7 @@
----
-layout: default
-title: MLE / Data Science Portfolio
----
-
 # MLE / Data Science Portfolio
 
 ## Table of Contents
-1. [About Me](#about-me)
+1. [About Me](#about-me) <br>
 2. [ML Engineering](#ml-engineering)
     - [Live Stock Predictor](#live-stock-predictor)
 4. [Data Engineering](#data-engineering)
